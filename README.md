@@ -1,0 +1,2 @@
+# Pocitadlo
+Počítá gramy 
