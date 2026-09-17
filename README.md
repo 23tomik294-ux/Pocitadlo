@@ -12,4 +12,11 @@ https://app-eshop-lecy1j.webnode.cz/
 
 
 
+reklama z ad Google :
+ID aplikace admod 
+ca-app-pub-1526728169933818~6541471504
+
+ID reklamní jednotky 
+ca-app-pub-1526728169933818/2352137026
+
 
